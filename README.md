@@ -1,2 +1,2 @@
-This is a [kazi page](https://kazi-one.vercel.app) 
+This is a [kazi page](https://kazi-pearl.vercel.app/) 
 
