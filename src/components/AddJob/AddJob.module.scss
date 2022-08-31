@@ -1,0 +1,19 @@
+.button {
+    background-color: #C3FF94;
+    width: 316px;
+    height: 37px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: white;
+    border: none;
+    &:hover {
+        background-color: #5ecafc;
+    }
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+    margin-top: 10px;
+}
